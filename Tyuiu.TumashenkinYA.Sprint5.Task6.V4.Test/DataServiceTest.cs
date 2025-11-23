@@ -16,3 +16,4 @@ namespace Tyuiu.TumashenkinYA.Sprint5.Task6.V4.Test
             Assert.AreEqual(wait, res);
         }
     }
+}
